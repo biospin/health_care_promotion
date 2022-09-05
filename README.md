@@ -1,6 +1,6 @@
 # 헬스케어 증진 모임 
 
-<img src="https://github.com/biospin/health_care_promotion/blob/main/main.jpg" />
+<img src="https://github.com/biospin/health_care_promotion/blob/main/main02.jpg" />
 
 - 30일 자전거 전국일주 
 https://youtu.be/FJVm-SSrJak
@@ -77,7 +77,7 @@ https://www.bike.go.kr/content.do?key=2006176999425
 |                               |                                                                       | 139km                 |        
 
 
-
+<img src="https://github.com/biospin/health_care_promotion/blob/main/main.jpg" />
 
 
 
