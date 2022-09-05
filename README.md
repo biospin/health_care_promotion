@@ -1,6 +1,6 @@
 # 헬스케어 증진 모임 
 
-<img src="https://github.com/biospin/health_care_promotion/blob/main/main02.jpg?raw=true"  width="600" height="400" />
+<img src="https://github.com/biospin/health_care_promotion/blob/main/main02.jpg?raw=true" />
 
 
 ## 모임 정보
