@@ -2,8 +2,6 @@
 
 <img src="https://github.com/biospin/health_care_promotion/blob/main/main02.jpg" />
 
-- 30일 자전거 전국일주 
-https://youtu.be/FJVm-SSrJak
 
 ## 모임 정보
 - 자전거를 열심히 타면서 스스로 자신의 건강을 지키는 모임입니다.
@@ -77,6 +75,9 @@ https://www.bike.go.kr/content.do?key=2006176999425
 |                               |                                                                       | 139km                 |        
 
 
+
+- 30일 자전거 전국일주 
+https://youtu.be/FJVm-SSrJak
 <img src="https://github.com/biospin/health_care_promotion/blob/main/main.jpg" />
 
 
